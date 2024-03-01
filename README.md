@@ -1,7 +1,7 @@
-### Olá! Eu sou Eduardo Leite  <img align="centre" alt="Hi" height="25" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="Hi"> <br> <br>
-- Estou atualmente no 2º semestre Tecnólogo de Analise de Sistemas na USJT.
+### Olá! Eu sou **Eduardo Leite**  <img align="centre" alt="Hi" height="25" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="Hi"> <br>
+- Procuro colaborar com projetos parceiros para aperfeiçoar meu conhecimento sobre a arte da programação.
 - Atualmente trabalhando com Manutenção e Aprimoramento de CPU's em restaurantes e lojas variadas.
-- Procuro colaborar com projetos parceiros para aperfeiçoar meu conhecimento sobre a arte da programação. <br> <br>
+- Estou atualmente no 2º semestre Tecnólogo de Analise de Sistemas na USJT. <br> <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edbussl&layout=pie&theme=graywhite)
 <div style="display: inline_block">
