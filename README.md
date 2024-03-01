@@ -3,18 +3,21 @@
 - Procuro colaborar com projetos parceiros <br> <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edbussl&layout=pie&theme=graywhite)
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
  <!-- LINGUAGENS:
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
 
-<img align="right" alt="Edu-Anime" height="300" width="300" src="https://cdn.picrew.me/shareImg/org/202403/13338_eeE0TQoQ.png" alt="Eduardo Animezinho">
+<!--        GIF        -->
+<img align="right" alt="Edu-Anime" height="250" width="250" src="https://i.picasion.com/pic92/477263b4cd953d23df6785584e25d99e.gif" alt="Eduardo Animezinho">
 
-<!-- GATO <img height="100" src="https://cdn.pixabay.com/photo/2017/09/01/00/15/png-2702691_1280.png" alt="your-image-description" style="border: 2px solid  gray;"> -->
+<!--   Redes Sociais   -->
+[<img align="center" alt="Edu-Twitter"  height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" />](https://twitter.com/EdyyRo9) &nbsp;&nbsp;&nbsp;
+[<img align="center" alt="Edu-LinkedIN" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/feed/?trk=sem-ga_campid.12619604099_asid.149519181115_crid.657343811713_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.1001724) 
 
-<background-image src="https://static.vecteezy.com/system/resources/thumbnails/011/792/321/small/corner-border-page-border-free-png.png" alt="fundo" > 
+<!-- Cobrinha Commits  -->
+
 
 </div>
