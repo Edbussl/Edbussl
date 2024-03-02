@@ -15,7 +15,6 @@
 <img align="right" alt="Edu-Anime" height="250" width="250" src="https://i.picasion.com/pic92/477263b4cd953d23df6785584e25d99e.gif" alt="Eduardo Animezinho">
 
 <!--   Redes Sociais   -->
-[<img align="center" alt="Edu-Twitter"  height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" />](https://twitter.com/EdyyRo9) &nbsp;&nbsp;&nbsp;
 [<img align="center" alt="Edu-LinkedIN" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/feed/?trk=sem-ga_campid.12619604099_asid.149519181115_crid.657343811713_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.1001724) 
 
 <!-- Cobrinha Commits  
