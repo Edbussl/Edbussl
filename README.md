@@ -6,7 +6,7 @@
 ~~~ 
 
 <!--        GIF        -->
-<img align="right" alt="Edu-Anime" height="250" width="250" src="https://i.picasion.com/pic92/477263b4cd953d23df6785584e25d99e.gif">
+<img align="right" alt="Edu-Anime" height="200" width="200" src="https://i.picasion.com/pic92/477263b4cd953d23df6785584e25d99e.gif">
 
 Linguagens conhecidas! 🧑‍💻 <br>
 - <img align="center" alt="Img-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> PYTHON
