@@ -2,15 +2,19 @@
 
 ~~~
 - Procuro colaborar com projetos parceiros para aperfeiçoar meu conhecimento sobre a arte da programação.
-- Atualmente trabalhando com Manutenção e Aprimoramento de CPU's em restaurantes e lojas variadas.
+- Atualmente trabalhando com Manutenção e Aprimoramento de CPU's em restaurantes e lojas variadas. 
 - Estou atualmente no 2º semestre Tecnólogo de Analise de Sistemas na USJT.
 ~~~ 
 
 <!--        GIF        -->
-<img align="right" alt="Edu-Anime" height="95"  src="https://5efce21e120dc77e32455754.static-01.com/l/images/609b6bd0de82b9cd1bce3945018ff4280ff0e955.gif"> 
+<img align="left" alt="Edu-Anime" height="100"  src="https://i.picasion.com/pic92/477263b4cd953d23df6785584e25d99e.gif"> 
+<img align="right" alt="Gato-Codando" height="85"  src="https://5efce21e120dc77e32455754.static-01.com/l/images/609b6bd0de82b9cd1bce3945018ff4280ff0e955.gif"> 
+LinkedIN
+
 
 <!--   Redes Sociais   -->
-[<img align="center" alt="Edu-LinkedIN" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/feed/?trk=sem-ga_campid.12619604099_asid.149519181115_crid.657343811713_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.1001724) 
+
+[<img align="center" alt="Edu-LinkedIN" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/feed/?trk=sem-ga_campid.12619604099_asid.149519181115_crid.657343811713_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.1001724) 
 <br> <br>
 
 #
