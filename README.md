@@ -28,7 +28,7 @@ Linguagens conhecidas! 🧑‍💻 <br>
 - <img align="center" alt="Img-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> PYTHON
 - <img align="center" alt="Img-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> HTML
 - <img align="center" alt="Img-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> CSS3
-<!-- - <img align="center" alt="Img-JavaS" haight="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> JAVASCRIPT -->
+- <img align="center" alt="Img-JavaS" haight="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> JAVASCRIPT 
 <br> <br>
 
 <!-- [<img align="center" alt="Edu-Gmail" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/feed/?trk=sem-ga_campid.12619604099_asid.149519181115_crid.657343811713_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.1001724) -->
