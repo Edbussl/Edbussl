@@ -3,7 +3,7 @@
 ~~~
 - Procuro colaborar com projetos parceiros para aperfeiçoar meu conhecimento sobre a arte da programação.
 - Atualmente trabalhando com Manutenção e Aprimoramento de CPU's em restaurantes e lojas variadas. 
-- Estou atualmente no 2º semestre Tecnólogo de Analise de Sistemas na USJT.
+- Estou atualmente no 3º semestre Tecnólogo de Analise de Sistemas na USJT.
 ~~~ 
 
 <!--        GIF        -->
