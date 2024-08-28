@@ -1,20 +1,20 @@
 ### Olá! Eu sou **Eduardo Leite**  <img align="centre" alt="Hi" height="25" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="Hi"> 
 
 ~~~
-- Procuro colaborar com projetos parceiros para aperfeiçoar meu conhecimento sobre a arte da programação.
-- Atualmente trabalhando com Manutenção e Aprimoramento de CPU's em restaurantes e lojas variadas. 
-- Estou atualmente no 3º semestre Tecnólogo de Analise de Sistemas na USJT.
+- 🚀 Colaborando com projetos parceiros para aprimorar minhas habilidades em programação.
+- 💻 Atualmente trabalhando na manutenção e aprimoramento de CPUs em restaurantes e lojas variadas.
+- 📚 Estudante do 4º semestre de Tecnólogo em Ciencia da Computação na USJT.
 ~~~ 
 
 <!--        GIF        -->
-<img align="left" alt="Edu-Anime" height="100"  src="https://i.picasion.com/pic92/477263b4cd953d23df6785584e25d99e.gif"> 
-<img align="right" alt="Gato-Codando" height="85"  src="https://5efce21e120dc77e32455754.static-01.com/l/images/609b6bd0de82b9cd1bce3945018ff4280ff0e955.gif"> 
-LinkedIN
+<img align="left" alt="Edu-Anime" height="130"  src="https://s2.ezgif.com/tmp/ezgif-2-d3aaba3f32.gif">
+<img align="right" alt="Gato-Codando" height="115"  src="https://5efce21e120dc77e32455754.static-01.com/l/images/609b6bd0de82b9cd1bce3945018ff4280ff0e955.gif"> 
+<br>
 
 
 <!--   Redes Sociais   -->
 
-[<img align="center" alt="Edu-LinkedIN" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/feed/?trk=sem-ga_campid.12619604099_asid.149519181115_crid.657343811713_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.1001724) 
+[<img align="center" alt="Edu-LinkedIN" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/feed/?trk=sem-ga_campid.12619604099_asid.149519181115_crid.657343811713_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.1001724) 
 <br> <br>
 
 #
