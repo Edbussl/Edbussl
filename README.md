@@ -7,7 +7,7 @@
 ~~~ 
 
 <!--        GIF        -->
-<img align="left" alt="Edu-Anime" height="130"  src="https://s2.ezgif.com/tmp/ezgif-2-d3aaba3f32.gif">
+<img align="left" alt="Edu-Anime" height="130"  src="https://i.imgur.com/F1ARzHV.gif">
 <img align="right" alt="Gato-Codando" height="115"  src="https://5efce21e120dc77e32455754.static-01.com/l/images/609b6bd0de82b9cd1bce3945018ff4280ff0e955.gif"> 
 <br>
 
