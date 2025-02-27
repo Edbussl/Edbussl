@@ -3,11 +3,10 @@
 ~~~
 - 🚀 Colaborando com projetos parceiros para aprimorar minhas habilidades em programação.
 - 💻 Atualmente trabalhando na manutenção e aprimoramento de CPUs em restaurantes e lojas variadas.
-- 📚 Estudante do 4º semestre de Tecnólogo em Ciencia da Computação na USJT.
+- 📚 Estudante do 5º semestre de Tecnólogo em Ciencia da Computação na USJT.
 ~~~ 
 
 <!--        GIF        -->
-<img align="left" alt="Edu-Anime" height="130"  src="https://i.imgur.com/F1ARzHV.gif">
 <img align="right" alt="Gato-Codando" height="115"  src="https://5efce21e120dc77e32455754.static-01.com/l/images/609b6bd0de82b9cd1bce3945018ff4280ff0e955.gif"> 
 <br>
 
