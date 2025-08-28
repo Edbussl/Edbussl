@@ -25,15 +25,56 @@
 ---
 
 ### 🖥️ Tecnologias
-- **HTML5** <img align="center" alt="Img-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> 
-- **CSS3** <img align="center" alt="Img-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+•
+**HTML5** <img align="center" alt="Img-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+•
+**CSS3** <img align="center" alt="Img-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+•
+**JavaScript** <img align="center" alt="Img-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+•
+**Python** <img align="center" alt="Img-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+•
+**React** <img align="center" alt="Img-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+•
+**Node.js** <img align="center" alt="Img-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+•
+**MySQL** <img align="center" alt="Img-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+•
+**Git** <img align="center" alt="Img-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 
 ---
 
 ### 📊 Estatísticas
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Edbussl&theme=transparent&bg_color=000000,2E0249&title_color=8A2BE2&text_color=D8BFD8&icon_color=BA55D3&border_color=4B0082" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Edbussl&layout=compact&langs_count=8&card_width=300&theme=transparent&bg_color=000000,2E0249&title_color=8A2BE2&text_color=D8BFD8&icon_color=BA55D3&border_color=4B0082" />
-</a>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Edbussl&theme=transparent&bg_color=000000,2E0249&title_color=8A2BE2&text_color=D8BFD8&icon_color=BA55D3&border_color=4B0082" 
+    style="width: 420px; height: 180px;"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Edbussl&layout=compact&langs_count=8&theme=transparent&bg_color=000000,2E0249&title_color=8A2BE2&text_color=D8BFD8&icon_color=BA55D3&border_color=4B0082" 
+    style="width: 420px; height: 180px;"
+  />
+</p>
+
+
+Sinta-se à vontade para me contatar para oportunidades de colaboração
+
+<!--
+🚀 Projetos em Destaque
+
+Confira alguns dos meus projetos mais recentes e relevantes:
+
+- Nome do Projeto 1: Breve descrição do projeto 1. Link para o Repositório
+
+- Nome do Projeto 2: Breve descrição do projeto 2. Link para o Repositório
+
+- Nome do Projeto 3: Breve descrição do projeto 3. Link para o Repositório
+
+
+📚 O que estou aprendendo/interessado agora
+
+
+- Atualmente explorando: **Inteligência Artificial e Desenvolvimento Web Full-Stack.**
+
+- Sempre em busca de novos desafios e tecnologias para aprimorar minhas habilidades.
+-->
